@@ -1,5 +1,5 @@
 {
-    "name": "exbil/mailcow-php-api",
+    "name": "mscode-pl/mailcow-php-api",
     "type": "library",
     "description": "A full-featured implementation of the MailCow API",
     "keywords": [
@@ -17,12 +17,13 @@
             "name": "Efe Bagri",
             "email": "composer@exbil.net",
             "homepage": "https://www.exbil.net"
+        },
+        {
+            "name": "MsCode.pl Team",
+            "email": "kontakt@mscode.pl",
+            "homepage": "https://mscode.pl"
         }
     ],
-    "support": {
-        "issues": "https://github.com/exbil/mailcow-php-api/issues",
-        "source": "https://github.com/exbil/mailcow-php-api"
-    },
     "require": {
         "php": ">=7.2",
         "guzzlehttp/guzzle": "^7.5",
