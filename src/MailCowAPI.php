@@ -1,14 +1,14 @@
 <?php
 
 
-namespace Exbil;
+namespace MsCode\Mailcow;
 
 use GuzzleHttp\Client;
-use Exbil\Mailcow\Aliases\Aliases;
-use Exbil\Mailcow\AntiSpam\AntiSpam;
-use Exbil\Mailcow\Domains\Domains;
-use Exbil\Mailcow\Exception\ParameterException;
-use Exbil\Mailcow\MailBoxes\MailBoxes;
+use MsCode\Mailcow\Aliases\Aliases;
+use MsCode\Mailcow\AntiSpam\AntiSpam;
+use MsCode\Mailcow\Domains\Domains;
+use MsCode\Mailcow\Exception\ParameterException;
+use MsCode\Mailcow\MailBoxes\MailBoxes;
 use Psr\Http\Message\ResponseInterface;
 
 class MailCowAPI

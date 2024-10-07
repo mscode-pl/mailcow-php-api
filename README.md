@@ -36,7 +36,7 @@ You need an API Key for that.
 require_once 'vendor/autoload.php';
 
 // Use the library namespace
-use MsCode\MailCow\MailCowAPI;
+use MsCode\Mailcow\MailCow\MailCowAPI;
 
 // Then simply pass your API-Token when creating the API client object.
 $client = new MailCowAPI('mailcow-with-https.example.com','MAILCOW_API_KEY');

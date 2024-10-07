@@ -34,7 +34,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Exbil\\Mailcow\\": "src/"
+            "MsCode\\Mailcow\\": "src/"
         }
     }
 }

@@ -1,8 +1,8 @@
 <?php
 
-namespace Exbil\Mailcow\MailBoxes;
+namespace MsCode\Mailcow\MailBoxes;
 
-use Exbil\Mailcow\MailCowAPI;
+use MsCode\Mailcow\MailCowAPI;
 
 class MailBoxes
 {

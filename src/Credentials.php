@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Exbil;
+namespace MsCode\Mailcow;
 
 class Credentials
 {

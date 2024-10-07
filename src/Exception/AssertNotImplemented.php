@@ -1,6 +1,6 @@
 <?php
 
-namespace Exbil\Mailcow\Exception;
+namespace MsCode\Mailcow\Exception;
 
 use Exception;
 
